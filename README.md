@@ -1,8 +1,6 @@
 # Functions-Basic-I
 * Coding Dojo Assignment: Python Functions
 
-# Assignment: Functions Basic I
-
 # Objectives:
 * Avoid common mistakes of using functions.
 * Really understand how to use T-diagram to correctly predict and debug codes.
