@@ -1,5 +1,5 @@
 # Functions-Basic-I
-* Coding Dojo Assignment: Functions Basic I
+* Coding Dojo Assignment: Python Functions
 
 # Assignment: Functions Basic I
 
